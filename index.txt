@@ -1,0 +1,235 @@
+Kitter - Hight Quality Pet Food
+This is an eCommerce html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+aria-label = toggle manu
+
+<ion-icon name="menu-outline" aria-hidden="true" class="menu-icon"></ion-icon>
+<ion-icon name="close-outline" aria-label="true" class="close-icon"></ion-icon>
+
+Kitter
+
+Home
+Shop
+Collections
+Blogs
+Contact
+
+Log In
+
+aria-label = Search
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+
+aria-label = User
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+
+aria-label = cart
+<ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+0
+
+
+
+#---------- HERO ----------#
+
+High Quality
+Pet Food
+
+Sale up to 40% off today
+
+Shop Now
+
+
+
+#---------- CATEGORY ----------#
+
+Top
+categories
+
+alt = Cat Food
+
+Cat Food
+
+alt = Cat Toys
+Cat Toys
+
+alt = Dog Food
+Dog Food
+
+alt = Dog Toys
+Dog Toys
+
+alt = Dog Sumpplements
+Dog Sumpplements
+
+
+
+
+
+#---------- OFFERS ----------#
+
+Selected Items. Online Only.
+Hot Summer
+Deals
+Read More
+
+Treats & Grooming
+Spoil your true
+love
+
+Our Brand You Will Love
+New in this
+year
+
+
+
+#---------- PRODUCT ----------#
+
+Best
+Seller
+
+alt = Commodo leo sed porta
+
+aria-label = add to card
+
+<ion-icon name="bag-add-outline" aria-hidden="true"></ion-icon>
+
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+(1)
+Commodo leo sed porta
+$15.00
+
+alt = Purus consequat congue sit
+
+(0)
+Purus consequat congue sit
+$45.00
+
+alt = Morbi vel arcu scelerisque
+
+Morbi vel arcu scelerisque
+$45.00
+
+$49.00
+
+$85.00
+
+alt = Nam justo libero porta ege
+
+Nam justo libero porta ege
+$85.00
+
+$85.00
+
+alt = Etiam commodo leo sed
+
+Etiam commodo leo sed
+$55.00
+
+
+
+#---------- SERVICE ----------#
+
+What your pet needs, 
+when they need it.
+
+alt = service icon
+
+Free Same-Day Delivery
+
+Order by 2pm local time to get free delivery on orders $35+ today.
+
+30 Day Return
+
+35% off your first order plus 5% off all future orders.
+
+Security payment
+
+25% off your online order of $50+. Available at most locations.
+
+24/7 Support
+
+Shop online to get orders over $35 shipped fast and free.
+
+
+
+#---------- CTA ----------#
+
+alt = cat
+
+alt = taste guarantee
+
+Taste it, love it or we’ll replace it… Guaranteed!
+
+At Petio, we believe your dog and cat will love their food so much that if they don’t … we’ll help you find a replacement. That’s our taste guarantee.
+
+Find out more
+
+
+
+#---------- BRAND ----------#
+
+Popular
+Brands
+
+alt = brand logo
+
+
+
+#---------- FOOTER ----------#
+
+Kitter
+
+If you have any question, please contact us at support@gmail.com
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+30 Buttonwood St.Pataskala OH 43062
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+(+1)-6234-56-789-1011
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+
+Corporate
+
+Careers
+About Us
+Contact Us
+FAQs
+Vendors
+Affiliate Program
+
+Information
+
+Online Store
+Privacy Policy
+Refund Policy
+Shipping Policy
+Terms of Service
+Track Order
+
+Services
+
+Grooming
+Positive Dog Training
+Veterinary Services
+Petco Insurance
+Pet Adoption
+Resource Center
+
+&copy; 2022 Made with ♥ by codewithsadee.
+
+alt = payment method
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
